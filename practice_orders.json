@@ -1,0 +1,2826 @@
+[
+  {
+    "date": "2026-08-01 09:01",
+    "customer_id": "mahaok",
+    "pounds": 9.4,
+    "subtotal": 4.7,
+    "taxes": 0.28,
+    "total": 4.98
+  },
+  {
+    "date": "2026-08-01 11:08",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.4,
+    "subtotal": 4.7,
+    "taxes": 0.28,
+    "total": 4.98
+  },
+  {
+    "date": "2026-08-01 19:57",
+    "customer_id": "Bajra1234",
+    "pounds": 7.5,
+    "subtotal": 3.75,
+    "taxes": 0.22,
+    "total": 3.98
+  },
+  {
+    "date": "2026-08-01 14:02",
+    "customer_id": "mahaok",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-08-01 11:32",
+    "customer_id": "Bajra1234",
+    "pounds": 8.0,
+    "subtotal": 4.0,
+    "taxes": 0.24,
+    "total": 4.24
+  },
+  {
+    "date": "2026-08-01 11:45",
+    "customer_id": "Bajra1234",
+    "pounds": 8.5,
+    "subtotal": 4.25,
+    "taxes": 0.26,
+    "total": 4.5
+  },
+  {
+    "date": "2026-08-01 14:14",
+    "customer_id": "kamsp",
+    "pounds": 6.5,
+    "subtotal": 3.25,
+    "taxes": 0.2,
+    "total": 3.44
+  },
+  {
+    "date": "2026-08-01 20:55",
+    "customer_id": "mahaok",
+    "pounds": 2.1,
+    "subtotal": 1.05,
+    "taxes": 0.06,
+    "total": 1.11
+  },
+  {
+    "date": "2026-08-01 19:27",
+    "customer_id": "mahaok",
+    "pounds": 5.4,
+    "subtotal": 2.7,
+    "taxes": 0.16,
+    "total": 2.86
+  },
+  {
+    "date": "2026-08-01 11:48",
+    "customer_id": "maha",
+    "pounds": 5.4,
+    "subtotal": 2.7,
+    "taxes": 0.16,
+    "total": 2.86
+  },
+  {
+    "date": "2026-08-01 14:06",
+    "customer_id": "kamsp",
+    "pounds": 5.6,
+    "subtotal": 2.8,
+    "taxes": 0.17,
+    "total": 2.97
+  },
+  {
+    "date": "2026-08-01 17:16",
+    "customer_id": "Shrestha0099",
+    "pounds": 10.1,
+    "subtotal": 5.05,
+    "taxes": 0.3,
+    "total": 5.35
+  },
+  {
+    "date": "2026-08-01 15:34",
+    "customer_id": "abcdde",
+    "pounds": 3.2,
+    "subtotal": 1.6,
+    "taxes": 0.1,
+    "total": 1.7
+  },
+  {
+    "date": "2026-08-02 16:18",
+    "customer_id": "Bajra1234",
+    "pounds": 10.3,
+    "subtotal": 5.15,
+    "taxes": 0.31,
+    "total": 5.46
+  },
+  {
+    "date": "2026-08-02 13:36",
+    "customer_id": "maha",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-08-02 08:42",
+    "customer_id": "kamsp",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-08-02 09:54",
+    "customer_id": "maha",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-08-02 14:17",
+    "customer_id": "kamsp",
+    "pounds": 6.5,
+    "subtotal": 3.25,
+    "taxes": 0.2,
+    "total": 3.44
+  },
+  {
+    "date": "2026-08-02 10:23",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.6,
+    "subtotal": 2.8,
+    "taxes": 0.17,
+    "total": 2.97
+  },
+  {
+    "date": "2026-08-02 12:44",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.4,
+    "subtotal": 5.7,
+    "taxes": 0.34,
+    "total": 6.04
+  },
+  {
+    "date": "2026-08-02 09:38",
+    "customer_id": "Bajra1234",
+    "pounds": 8.3,
+    "subtotal": 4.15,
+    "taxes": 0.25,
+    "total": 4.4
+  },
+  {
+    "date": "2026-08-03 10:29",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.8,
+    "subtotal": 2.9,
+    "taxes": 0.17,
+    "total": 3.07
+  },
+  {
+    "date": "2026-08-03 19:35",
+    "customer_id": "kamsp",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-08-03 20:49",
+    "customer_id": "maha",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-08-04 14:17",
+    "customer_id": "Bajra1234",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-08-04 19:20",
+    "customer_id": "abcdde",
+    "pounds": 4.1,
+    "subtotal": 2.05,
+    "taxes": 0.12,
+    "total": 2.17
+  },
+  {
+    "date": "2026-08-04 14:56",
+    "customer_id": "abcdde",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-08-04 10:16",
+    "customer_id": "Shrestha0099",
+    "pounds": 3.4,
+    "subtotal": 1.7,
+    "taxes": 0.1,
+    "total": 1.8
+  },
+  {
+    "date": "2026-08-05 16:16",
+    "customer_id": "abcdde",
+    "pounds": 9.5,
+    "subtotal": 4.75,
+    "taxes": 0.28,
+    "total": 5.04
+  },
+  {
+    "date": "2026-08-05 17:25",
+    "customer_id": "mahaok",
+    "pounds": 5.6,
+    "subtotal": 2.8,
+    "taxes": 0.17,
+    "total": 2.97
+  },
+  {
+    "date": "2026-08-05 16:31",
+    "customer_id": "maha",
+    "pounds": 2.9,
+    "subtotal": 1.45,
+    "taxes": 0.09,
+    "total": 1.54
+  },
+  {
+    "date": "2026-08-05 09:09",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.3,
+    "subtotal": 4.15,
+    "taxes": 0.25,
+    "total": 4.4
+  },
+  {
+    "date": "2026-08-05 14:38",
+    "customer_id": "abcdde",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-08-05 17:29",
+    "customer_id": "Bajra1234",
+    "pounds": 7.3,
+    "subtotal": 3.65,
+    "taxes": 0.22,
+    "total": 3.87
+  },
+  {
+    "date": "2026-08-06 18:46",
+    "customer_id": "Bajra1234",
+    "pounds": 3.1,
+    "subtotal": 1.55,
+    "taxes": 0.09,
+    "total": 1.64
+  },
+  {
+    "date": "2026-08-06 20:17",
+    "customer_id": "kamsp",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-08-07 12:27",
+    "customer_id": "maha",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-08-07 19:56",
+    "customer_id": "Bajra1234",
+    "pounds": 9.2,
+    "subtotal": 4.6,
+    "taxes": 0.28,
+    "total": 4.88
+  },
+  {
+    "date": "2026-08-08 10:32",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-08-08 12:53",
+    "customer_id": "Bajra1234",
+    "pounds": 8.4,
+    "subtotal": 4.2,
+    "taxes": 0.25,
+    "total": 4.45
+  },
+  {
+    "date": "2026-08-08 11:09",
+    "customer_id": "mahaok",
+    "pounds": 5.7,
+    "subtotal": 2.85,
+    "taxes": 0.17,
+    "total": 3.02
+  },
+  {
+    "date": "2026-08-08 16:49",
+    "customer_id": "maha",
+    "pounds": 11.2,
+    "subtotal": 5.6,
+    "taxes": 0.34,
+    "total": 5.94
+  },
+  {
+    "date": "2026-08-08 17:20",
+    "customer_id": "maha",
+    "pounds": 6.9,
+    "subtotal": 3.45,
+    "taxes": 0.21,
+    "total": 3.66
+  },
+  {
+    "date": "2026-08-08 13:56",
+    "customer_id": "kamsp",
+    "pounds": 11.9,
+    "subtotal": 5.95,
+    "taxes": 0.36,
+    "total": 6.31
+  },
+  {
+    "date": "2026-08-08 11:03",
+    "customer_id": "Bajra1234",
+    "pounds": 4.4,
+    "subtotal": 2.2,
+    "taxes": 0.13,
+    "total": 2.33
+  },
+  {
+    "date": "2026-08-08 09:05",
+    "customer_id": "maha",
+    "pounds": 9.3,
+    "subtotal": 4.65,
+    "taxes": 0.28,
+    "total": 4.93
+  },
+  {
+    "date": "2026-08-08 20:34",
+    "customer_id": "mahaok",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-08-08 18:30",
+    "customer_id": "mahaok",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-08-08 12:33",
+    "customer_id": "abcdde",
+    "pounds": 10.7,
+    "subtotal": 5.35,
+    "taxes": 0.32,
+    "total": 5.67
+  },
+  {
+    "date": "2026-08-08 11:59",
+    "customer_id": "Shrestha0099",
+    "pounds": 7.4,
+    "subtotal": 3.7,
+    "taxes": 0.22,
+    "total": 3.92
+  },
+  {
+    "date": "2026-08-08 19:12",
+    "customer_id": "abcdde",
+    "pounds": 9.1,
+    "subtotal": 4.55,
+    "taxes": 0.27,
+    "total": 4.82
+  },
+  {
+    "date": "2026-08-08 18:41",
+    "customer_id": "Bajra1234",
+    "pounds": 5.7,
+    "subtotal": 2.85,
+    "taxes": 0.17,
+    "total": 3.02
+  },
+  {
+    "date": "2026-08-09 09:15",
+    "customer_id": "kamsp",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-08-09 08:37",
+    "customer_id": "Bajra1234",
+    "pounds": 7.5,
+    "subtotal": 3.75,
+    "taxes": 0.22,
+    "total": 3.98
+  },
+  {
+    "date": "2026-08-09 11:00",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-08-09 08:14",
+    "customer_id": "maha",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-08-09 13:04",
+    "customer_id": "kamsp",
+    "pounds": 7.1,
+    "subtotal": 3.55,
+    "taxes": 0.21,
+    "total": 3.76
+  },
+  {
+    "date": "2026-08-09 18:31",
+    "customer_id": "mahaok",
+    "pounds": 4.1,
+    "subtotal": 2.05,
+    "taxes": 0.12,
+    "total": 2.17
+  },
+  {
+    "date": "2026-08-09 19:59",
+    "customer_id": "Bajra1234",
+    "pounds": 10.8,
+    "subtotal": 5.4,
+    "taxes": 0.32,
+    "total": 5.72
+  },
+  {
+    "date": "2026-08-09 15:15",
+    "customer_id": "abcdde",
+    "pounds": 9.8,
+    "subtotal": 4.9,
+    "taxes": 0.29,
+    "total": 5.19
+  },
+  {
+    "date": "2026-08-09 11:06",
+    "customer_id": "abcdde",
+    "pounds": 3.0,
+    "subtotal": 1.5,
+    "taxes": 0.09,
+    "total": 1.59
+  },
+  {
+    "date": "2026-08-09 13:27",
+    "customer_id": "Shrestha0099",
+    "pounds": 6.1,
+    "subtotal": 3.05,
+    "taxes": 0.18,
+    "total": 3.23
+  },
+  {
+    "date": "2026-08-09 08:43",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.5,
+    "subtotal": 4.25,
+    "taxes": 0.26,
+    "total": 4.5
+  },
+  {
+    "date": "2026-08-10 08:25",
+    "customer_id": "maha",
+    "pounds": 9.3,
+    "subtotal": 4.65,
+    "taxes": 0.28,
+    "total": 4.93
+  },
+  {
+    "date": "2026-08-10 11:12",
+    "customer_id": "abcdde",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-08-11 14:11",
+    "customer_id": "mahaok",
+    "pounds": 4.8,
+    "subtotal": 2.4,
+    "taxes": 0.14,
+    "total": 2.54
+  },
+  {
+    "date": "2026-08-11 09:28",
+    "customer_id": "Bajra1234",
+    "pounds": 10.1,
+    "subtotal": 5.05,
+    "taxes": 0.3,
+    "total": 5.35
+  },
+  {
+    "date": "2026-08-11 09:03",
+    "customer_id": "Bajra1234",
+    "pounds": 8.5,
+    "subtotal": 4.25,
+    "taxes": 0.26,
+    "total": 4.5
+  },
+  {
+    "date": "2026-08-12 09:59",
+    "customer_id": "mahaok",
+    "pounds": 9.5,
+    "subtotal": 4.75,
+    "taxes": 0.28,
+    "total": 5.04
+  },
+  {
+    "date": "2026-08-12 10:26",
+    "customer_id": "mahaok",
+    "pounds": 6.9,
+    "subtotal": 3.45,
+    "taxes": 0.21,
+    "total": 3.66
+  },
+  {
+    "date": "2026-08-13 08:10",
+    "customer_id": "abcdde",
+    "pounds": 5.8,
+    "subtotal": 2.9,
+    "taxes": 0.17,
+    "total": 3.07
+  },
+  {
+    "date": "2026-08-13 12:59",
+    "customer_id": "abcdde",
+    "pounds": 9.8,
+    "subtotal": 4.9,
+    "taxes": 0.29,
+    "total": 5.19
+  },
+  {
+    "date": "2026-08-13 12:27",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-08-13 20:35",
+    "customer_id": "abcdde",
+    "pounds": 8.6,
+    "subtotal": 4.3,
+    "taxes": 0.26,
+    "total": 4.56
+  },
+  {
+    "date": "2026-08-13 10:12",
+    "customer_id": "maha",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-08-14 19:34",
+    "customer_id": "kamsp",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-08-14 08:03",
+    "customer_id": "Bajra1234",
+    "pounds": 7.8,
+    "subtotal": 3.9,
+    "taxes": 0.23,
+    "total": 4.13
+  },
+  {
+    "date": "2026-08-14 16:10",
+    "customer_id": "Bajra1234",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-08-14 09:54",
+    "customer_id": "Bajra1234",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-08-14 09:43",
+    "customer_id": "abcdde",
+    "pounds": 10.6,
+    "subtotal": 5.3,
+    "taxes": 0.32,
+    "total": 5.62
+  },
+  {
+    "date": "2026-08-14 09:56",
+    "customer_id": "Bajra1234",
+    "pounds": 7.7,
+    "subtotal": 3.85,
+    "taxes": 0.23,
+    "total": 4.08
+  },
+  {
+    "date": "2026-08-15 08:39",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.8,
+    "subtotal": 1.4,
+    "taxes": 0.08,
+    "total": 1.48
+  },
+  {
+    "date": "2026-08-15 17:36",
+    "customer_id": "kamsp",
+    "pounds": 7.2,
+    "subtotal": 3.6,
+    "taxes": 0.22,
+    "total": 3.82
+  },
+  {
+    "date": "2026-08-15 11:42",
+    "customer_id": "mahaok",
+    "pounds": 9.2,
+    "subtotal": 4.6,
+    "taxes": 0.28,
+    "total": 4.88
+  },
+  {
+    "date": "2026-08-15 12:25",
+    "customer_id": "Shrestha0099",
+    "pounds": 3.3,
+    "subtotal": 1.65,
+    "taxes": 0.1,
+    "total": 1.75
+  },
+  {
+    "date": "2026-08-15 12:29",
+    "customer_id": "maha",
+    "pounds": 5.2,
+    "subtotal": 2.6,
+    "taxes": 0.16,
+    "total": 2.76
+  },
+  {
+    "date": "2026-08-15 08:29",
+    "customer_id": "Bajra1234",
+    "pounds": 8.2,
+    "subtotal": 4.1,
+    "taxes": 0.25,
+    "total": 4.35
+  },
+  {
+    "date": "2026-08-15 09:04",
+    "customer_id": "Bajra1234",
+    "pounds": 7.4,
+    "subtotal": 3.7,
+    "taxes": 0.22,
+    "total": 3.92
+  },
+  {
+    "date": "2026-08-15 12:08",
+    "customer_id": "maha",
+    "pounds": 11.3,
+    "subtotal": 5.65,
+    "taxes": 0.34,
+    "total": 5.99
+  },
+  {
+    "date": "2026-08-15 11:23",
+    "customer_id": "abcdde",
+    "pounds": 4.8,
+    "subtotal": 2.4,
+    "taxes": 0.14,
+    "total": 2.54
+  },
+  {
+    "date": "2026-08-15 16:45",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-08-15 16:00",
+    "customer_id": "Bajra1234",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-08-15 12:59",
+    "customer_id": "mahaok",
+    "pounds": 8.6,
+    "subtotal": 4.3,
+    "taxes": 0.26,
+    "total": 4.56
+  },
+  {
+    "date": "2026-08-16 09:56",
+    "customer_id": "Bajra1234",
+    "pounds": 3.1,
+    "subtotal": 1.55,
+    "taxes": 0.09,
+    "total": 1.64
+  },
+  {
+    "date": "2026-08-16 10:17",
+    "customer_id": "mahaok",
+    "pounds": 4.8,
+    "subtotal": 2.4,
+    "taxes": 0.14,
+    "total": 2.54
+  },
+  {
+    "date": "2026-08-16 19:21",
+    "customer_id": "Shrestha0099",
+    "pounds": 4.0,
+    "subtotal": 2.0,
+    "taxes": 0.12,
+    "total": 2.12
+  },
+  {
+    "date": "2026-08-16 12:32",
+    "customer_id": "maha",
+    "pounds": 6.9,
+    "subtotal": 3.45,
+    "taxes": 0.21,
+    "total": 3.66
+  },
+  {
+    "date": "2026-08-16 09:40",
+    "customer_id": "kamsp",
+    "pounds": 6.2,
+    "subtotal": 3.1,
+    "taxes": 0.19,
+    "total": 3.29
+  },
+  {
+    "date": "2026-08-16 08:00",
+    "customer_id": "mahaok",
+    "pounds": 5.3,
+    "subtotal": 2.65,
+    "taxes": 0.16,
+    "total": 2.81
+  },
+  {
+    "date": "2026-08-16 18:16",
+    "customer_id": "abcdde",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-08-16 16:45",
+    "customer_id": "maha",
+    "pounds": 6.3,
+    "subtotal": 3.15,
+    "taxes": 0.19,
+    "total": 3.34
+  },
+  {
+    "date": "2026-08-16 09:04",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-08-16 10:34",
+    "customer_id": "kamsp",
+    "pounds": 2.4,
+    "subtotal": 1.2,
+    "taxes": 0.07,
+    "total": 1.27
+  },
+  {
+    "date": "2026-08-17 16:09",
+    "customer_id": "maha",
+    "pounds": 6.3,
+    "subtotal": 3.15,
+    "taxes": 0.19,
+    "total": 3.34
+  },
+  {
+    "date": "2026-08-17 12:23",
+    "customer_id": "maha",
+    "pounds": 11.0,
+    "subtotal": 5.5,
+    "taxes": 0.33,
+    "total": 5.83
+  },
+  {
+    "date": "2026-08-17 13:13",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.8,
+    "subtotal": 4.4,
+    "taxes": 0.26,
+    "total": 4.66
+  },
+  {
+    "date": "2026-08-17 09:22",
+    "customer_id": "abcdde",
+    "pounds": 9.8,
+    "subtotal": 4.9,
+    "taxes": 0.29,
+    "total": 5.19
+  },
+  {
+    "date": "2026-08-17 17:47",
+    "customer_id": "mahaok",
+    "pounds": 3.5,
+    "subtotal": 1.75,
+    "taxes": 0.1,
+    "total": 1.85
+  },
+  {
+    "date": "2026-08-17 10:51",
+    "customer_id": "abcdde",
+    "pounds": 10.1,
+    "subtotal": 5.05,
+    "taxes": 0.3,
+    "total": 5.35
+  },
+  {
+    "date": "2026-08-18 10:47",
+    "customer_id": "abcdde",
+    "pounds": 11.2,
+    "subtotal": 5.6,
+    "taxes": 0.34,
+    "total": 5.94
+  },
+  {
+    "date": "2026-08-18 20:42",
+    "customer_id": "mahaok",
+    "pounds": 10.6,
+    "subtotal": 5.3,
+    "taxes": 0.32,
+    "total": 5.62
+  },
+  {
+    "date": "2026-08-19 10:50",
+    "customer_id": "abcdde",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-08-19 08:54",
+    "customer_id": "mahaok",
+    "pounds": 6.7,
+    "subtotal": 3.35,
+    "taxes": 0.2,
+    "total": 3.55
+  },
+  {
+    "date": "2026-08-19 15:22",
+    "customer_id": "mahaok",
+    "pounds": 5.1,
+    "subtotal": 2.55,
+    "taxes": 0.15,
+    "total": 2.7
+  },
+  {
+    "date": "2026-08-19 11:01",
+    "customer_id": "abcdde",
+    "pounds": 8.6,
+    "subtotal": 4.3,
+    "taxes": 0.26,
+    "total": 4.56
+  },
+  {
+    "date": "2026-08-20 12:55",
+    "customer_id": "kamsp",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-08-20 13:41",
+    "customer_id": "Shrestha0099",
+    "pounds": 7.1,
+    "subtotal": 3.55,
+    "taxes": 0.21,
+    "total": 3.76
+  },
+  {
+    "date": "2026-08-20 16:21",
+    "customer_id": "maha",
+    "pounds": 11.4,
+    "subtotal": 5.7,
+    "taxes": 0.34,
+    "total": 6.04
+  },
+  {
+    "date": "2026-08-20 12:11",
+    "customer_id": "kamsp",
+    "pounds": 7.8,
+    "subtotal": 3.9,
+    "taxes": 0.23,
+    "total": 4.13
+  },
+  {
+    "date": "2026-08-21 09:38",
+    "customer_id": "Shrestha0099",
+    "pounds": 6.3,
+    "subtotal": 3.15,
+    "taxes": 0.19,
+    "total": 3.34
+  },
+  {
+    "date": "2026-08-21 20:20",
+    "customer_id": "Bajra1234",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-08-22 14:57",
+    "customer_id": "kamsp",
+    "pounds": 7.8,
+    "subtotal": 3.9,
+    "taxes": 0.23,
+    "total": 4.13
+  },
+  {
+    "date": "2026-08-22 08:45",
+    "customer_id": "Bajra1234",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-08-22 20:34",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-08-22 19:42",
+    "customer_id": "abcdde",
+    "pounds": 4.0,
+    "subtotal": 2.0,
+    "taxes": 0.12,
+    "total": 2.12
+  },
+  {
+    "date": "2026-08-22 09:42",
+    "customer_id": "Bajra1234",
+    "pounds": 11.2,
+    "subtotal": 5.6,
+    "taxes": 0.34,
+    "total": 5.94
+  },
+  {
+    "date": "2026-08-22 13:42",
+    "customer_id": "Shrestha0099",
+    "pounds": 10.5,
+    "subtotal": 5.25,
+    "taxes": 0.32,
+    "total": 5.57
+  },
+  {
+    "date": "2026-08-22 12:32",
+    "customer_id": "abcdde",
+    "pounds": 5.1,
+    "subtotal": 2.55,
+    "taxes": 0.15,
+    "total": 2.7
+  },
+  {
+    "date": "2026-08-22 13:25",
+    "customer_id": "Bajra1234",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-08-23 11:26",
+    "customer_id": "abcdde",
+    "pounds": 8.6,
+    "subtotal": 4.3,
+    "taxes": 0.26,
+    "total": 4.56
+  },
+  {
+    "date": "2026-08-23 18:47",
+    "customer_id": "Bajra1234",
+    "pounds": 11.0,
+    "subtotal": 5.5,
+    "taxes": 0.33,
+    "total": 5.83
+  },
+  {
+    "date": "2026-08-23 17:19",
+    "customer_id": "maha",
+    "pounds": 6.1,
+    "subtotal": 3.05,
+    "taxes": 0.18,
+    "total": 3.23
+  },
+  {
+    "date": "2026-08-23 12:18",
+    "customer_id": "Bajra1234",
+    "pounds": 4.1,
+    "subtotal": 2.05,
+    "taxes": 0.12,
+    "total": 2.17
+  },
+  {
+    "date": "2026-08-23 17:41",
+    "customer_id": "abcdde",
+    "pounds": 5.2,
+    "subtotal": 2.6,
+    "taxes": 0.16,
+    "total": 2.76
+  },
+  {
+    "date": "2026-08-23 15:43",
+    "customer_id": "abcdde",
+    "pounds": 4.1,
+    "subtotal": 2.05,
+    "taxes": 0.12,
+    "total": 2.17
+  },
+  {
+    "date": "2026-08-23 20:57",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.6,
+    "subtotal": 5.8,
+    "taxes": 0.35,
+    "total": 6.15
+  },
+  {
+    "date": "2026-08-23 10:42",
+    "customer_id": "Bajra1234",
+    "pounds": 2.8,
+    "subtotal": 1.4,
+    "taxes": 0.08,
+    "total": 1.48
+  },
+  {
+    "date": "2026-08-23 18:40",
+    "customer_id": "maha",
+    "pounds": 8.2,
+    "subtotal": 4.1,
+    "taxes": 0.25,
+    "total": 4.35
+  },
+  {
+    "date": "2026-08-24 18:19",
+    "customer_id": "mahaok",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-08-24 10:01",
+    "customer_id": "abcdde",
+    "pounds": 2.5,
+    "subtotal": 1.25,
+    "taxes": 0.07,
+    "total": 1.32
+  },
+  {
+    "date": "2026-08-24 17:54",
+    "customer_id": "abcdde",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-08-25 18:36",
+    "customer_id": "Shrestha0099",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-08-25 14:31",
+    "customer_id": "mahaok",
+    "pounds": 6.0,
+    "subtotal": 3.0,
+    "taxes": 0.18,
+    "total": 3.18
+  },
+  {
+    "date": "2026-08-25 18:44",
+    "customer_id": "maha",
+    "pounds": 2.1,
+    "subtotal": 1.05,
+    "taxes": 0.06,
+    "total": 1.11
+  },
+  {
+    "date": "2026-08-25 20:27",
+    "customer_id": "Shrestha0099",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-08-25 16:29",
+    "customer_id": "mahaok",
+    "pounds": 2.5,
+    "subtotal": 1.25,
+    "taxes": 0.07,
+    "total": 1.32
+  },
+  {
+    "date": "2026-08-26 15:08",
+    "customer_id": "Shrestha0099",
+    "pounds": 10.0,
+    "subtotal": 5.0,
+    "taxes": 0.3,
+    "total": 5.3
+  },
+  {
+    "date": "2026-08-26 16:35",
+    "customer_id": "abcdde",
+    "pounds": 8.0,
+    "subtotal": 4.0,
+    "taxes": 0.24,
+    "total": 4.24
+  },
+  {
+    "date": "2026-08-27 19:57",
+    "customer_id": "Bajra1234",
+    "pounds": 7.0,
+    "subtotal": 3.5,
+    "taxes": 0.21,
+    "total": 3.71
+  },
+  {
+    "date": "2026-08-27 15:57",
+    "customer_id": "abcdde",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-08-27 15:16",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.5,
+    "subtotal": 4.75,
+    "taxes": 0.28,
+    "total": 5.04
+  },
+  {
+    "date": "2026-08-27 12:49",
+    "customer_id": "abcdde",
+    "pounds": 9.8,
+    "subtotal": 4.9,
+    "taxes": 0.29,
+    "total": 5.19
+  },
+  {
+    "date": "2026-08-27 18:15",
+    "customer_id": "maha",
+    "pounds": 4.7,
+    "subtotal": 2.35,
+    "taxes": 0.14,
+    "total": 2.49
+  },
+  {
+    "date": "2026-08-27 19:18",
+    "customer_id": "kamsp",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-08-28 16:05",
+    "customer_id": "mahaok",
+    "pounds": 3.4,
+    "subtotal": 1.7,
+    "taxes": 0.1,
+    "total": 1.8
+  },
+  {
+    "date": "2026-08-28 14:44",
+    "customer_id": "mahaok",
+    "pounds": 3.5,
+    "subtotal": 1.75,
+    "taxes": 0.1,
+    "total": 1.85
+  },
+  {
+    "date": "2026-08-28 09:26",
+    "customer_id": "Bajra1234",
+    "pounds": 6.1,
+    "subtotal": 3.05,
+    "taxes": 0.18,
+    "total": 3.23
+  },
+  {
+    "date": "2026-08-28 15:26",
+    "customer_id": "abcdde",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-08-29 20:37",
+    "customer_id": "maha",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-08-29 20:36",
+    "customer_id": "maha",
+    "pounds": 5.8,
+    "subtotal": 2.9,
+    "taxes": 0.17,
+    "total": 3.07
+  },
+  {
+    "date": "2026-08-29 13:19",
+    "customer_id": "abcdde",
+    "pounds": 9.5,
+    "subtotal": 4.75,
+    "taxes": 0.28,
+    "total": 5.04
+  },
+  {
+    "date": "2026-08-29 16:47",
+    "customer_id": "Bajra1234",
+    "pounds": 9.3,
+    "subtotal": 4.65,
+    "taxes": 0.28,
+    "total": 4.93
+  },
+  {
+    "date": "2026-08-29 11:31",
+    "customer_id": "abcdde",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-08-29 15:01",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.9,
+    "subtotal": 2.95,
+    "taxes": 0.18,
+    "total": 3.13
+  },
+  {
+    "date": "2026-08-29 18:51",
+    "customer_id": "mahaok",
+    "pounds": 6.0,
+    "subtotal": 3.0,
+    "taxes": 0.18,
+    "total": 3.18
+  },
+  {
+    "date": "2026-08-29 15:58",
+    "customer_id": "Bajra1234",
+    "pounds": 3.3,
+    "subtotal": 1.65,
+    "taxes": 0.1,
+    "total": 1.75
+  },
+  {
+    "date": "2026-08-29 16:01",
+    "customer_id": "Bajra1234",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-08-29 17:42",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-08-29 14:08",
+    "customer_id": "mahaok",
+    "pounds": 10.7,
+    "subtotal": 5.35,
+    "taxes": 0.32,
+    "total": 5.67
+  },
+  {
+    "date": "2026-08-30 12:24",
+    "customer_id": "abcdde",
+    "pounds": 5.3,
+    "subtotal": 2.65,
+    "taxes": 0.16,
+    "total": 2.81
+  },
+  {
+    "date": "2026-08-30 13:21",
+    "customer_id": "abcdde",
+    "pounds": 9.6,
+    "subtotal": 4.8,
+    "taxes": 0.29,
+    "total": 5.09
+  },
+  {
+    "date": "2026-08-30 12:48",
+    "customer_id": "abcdde",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-08-30 12:53",
+    "customer_id": "maha",
+    "pounds": 2.8,
+    "subtotal": 1.4,
+    "taxes": 0.08,
+    "total": 1.48
+  },
+  {
+    "date": "2026-08-30 19:34",
+    "customer_id": "kamsp",
+    "pounds": 2.5,
+    "subtotal": 1.25,
+    "taxes": 0.07,
+    "total": 1.32
+  },
+  {
+    "date": "2026-08-30 11:41",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-08-30 08:48",
+    "customer_id": "mahaok",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-08-30 11:53",
+    "customer_id": "mahaok",
+    "pounds": 2.2,
+    "subtotal": 1.1,
+    "taxes": 0.07,
+    "total": 1.17
+  },
+  {
+    "date": "2026-08-31 10:30",
+    "customer_id": "Bajra1234",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-08-31 11:29",
+    "customer_id": "kamsp",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-08-31 10:38",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.1,
+    "subtotal": 4.05,
+    "taxes": 0.24,
+    "total": 4.29
+  },
+  {
+    "date": "2026-09-01 20:52",
+    "customer_id": "kamsp",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-09-01 09:37",
+    "customer_id": "kamsp",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-09-02 18:58",
+    "customer_id": "abcdde",
+    "pounds": 11.6,
+    "subtotal": 5.8,
+    "taxes": 0.35,
+    "total": 6.15
+  },
+  {
+    "date": "2026-09-02 19:12",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.8,
+    "subtotal": 1.4,
+    "taxes": 0.08,
+    "total": 1.48
+  },
+  {
+    "date": "2026-09-02 18:15",
+    "customer_id": "kamsp",
+    "pounds": 3.0,
+    "subtotal": 1.5,
+    "taxes": 0.09,
+    "total": 1.59
+  },
+  {
+    "date": "2026-09-02 18:38",
+    "customer_id": "Bajra1234",
+    "pounds": 10.1,
+    "subtotal": 5.05,
+    "taxes": 0.3,
+    "total": 5.35
+  },
+  {
+    "date": "2026-09-02 20:02",
+    "customer_id": "abcdde",
+    "pounds": 5.5,
+    "subtotal": 2.75,
+    "taxes": 0.16,
+    "total": 2.92
+  },
+  {
+    "date": "2026-09-02 18:23",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-09-03 08:54",
+    "customer_id": "abcdde",
+    "pounds": 6.2,
+    "subtotal": 3.1,
+    "taxes": 0.19,
+    "total": 3.29
+  },
+  {
+    "date": "2026-09-03 09:27",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.6,
+    "subtotal": 5.8,
+    "taxes": 0.35,
+    "total": 6.15
+  },
+  {
+    "date": "2026-09-03 15:45",
+    "customer_id": "mahaok",
+    "pounds": 3.5,
+    "subtotal": 1.75,
+    "taxes": 0.1,
+    "total": 1.85
+  },
+  {
+    "date": "2026-09-03 19:33",
+    "customer_id": "kamsp",
+    "pounds": 11.7,
+    "subtotal": 5.85,
+    "taxes": 0.35,
+    "total": 6.2
+  },
+  {
+    "date": "2026-09-04 20:58",
+    "customer_id": "abcdde",
+    "pounds": 7.4,
+    "subtotal": 3.7,
+    "taxes": 0.22,
+    "total": 3.92
+  },
+  {
+    "date": "2026-09-04 15:27",
+    "customer_id": "Bajra1234",
+    "pounds": 10.3,
+    "subtotal": 5.15,
+    "taxes": 0.31,
+    "total": 5.46
+  },
+  {
+    "date": "2026-09-04 12:20",
+    "customer_id": "maha",
+    "pounds": 10.5,
+    "subtotal": 5.25,
+    "taxes": 0.32,
+    "total": 5.57
+  },
+  {
+    "date": "2026-09-04 12:56",
+    "customer_id": "abcdde",
+    "pounds": 6.5,
+    "subtotal": 3.25,
+    "taxes": 0.2,
+    "total": 3.44
+  },
+  {
+    "date": "2026-09-04 17:39",
+    "customer_id": "kamsp",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-09-04 08:31",
+    "customer_id": "mahaok",
+    "pounds": 10.5,
+    "subtotal": 5.25,
+    "taxes": 0.32,
+    "total": 5.57
+  },
+  {
+    "date": "2026-09-05 11:22",
+    "customer_id": "kamsp",
+    "pounds": 10.0,
+    "subtotal": 5.0,
+    "taxes": 0.3,
+    "total": 5.3
+  },
+  {
+    "date": "2026-09-05 12:56",
+    "customer_id": "kamsp",
+    "pounds": 8.0,
+    "subtotal": 4.0,
+    "taxes": 0.24,
+    "total": 4.24
+  },
+  {
+    "date": "2026-09-05 16:00",
+    "customer_id": "mahaok",
+    "pounds": 7.2,
+    "subtotal": 3.6,
+    "taxes": 0.22,
+    "total": 3.82
+  },
+  {
+    "date": "2026-09-05 09:15",
+    "customer_id": "abcdde",
+    "pounds": 9.2,
+    "subtotal": 4.6,
+    "taxes": 0.28,
+    "total": 4.88
+  },
+  {
+    "date": "2026-09-05 16:48",
+    "customer_id": "abcdde",
+    "pounds": 4.4,
+    "subtotal": 2.2,
+    "taxes": 0.13,
+    "total": 2.33
+  },
+  {
+    "date": "2026-09-05 18:45",
+    "customer_id": "maha",
+    "pounds": 6.9,
+    "subtotal": 3.45,
+    "taxes": 0.21,
+    "total": 3.66
+  },
+  {
+    "date": "2026-09-05 09:18",
+    "customer_id": "Shrestha0099",
+    "pounds": 4.2,
+    "subtotal": 2.1,
+    "taxes": 0.13,
+    "total": 2.23
+  },
+  {
+    "date": "2026-09-05 11:19",
+    "customer_id": "kamsp",
+    "pounds": 8.6,
+    "subtotal": 4.3,
+    "taxes": 0.26,
+    "total": 4.56
+  },
+  {
+    "date": "2026-09-05 15:35",
+    "customer_id": "abcdde",
+    "pounds": 7.3,
+    "subtotal": 3.65,
+    "taxes": 0.22,
+    "total": 3.87
+  },
+  {
+    "date": "2026-09-05 19:35",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.3,
+    "subtotal": 2.65,
+    "taxes": 0.16,
+    "total": 2.81
+  },
+  {
+    "date": "2026-09-05 15:17",
+    "customer_id": "mahaok",
+    "pounds": 5.1,
+    "subtotal": 2.55,
+    "taxes": 0.15,
+    "total": 2.7
+  },
+  {
+    "date": "2026-09-06 19:12",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.2,
+    "subtotal": 2.6,
+    "taxes": 0.16,
+    "total": 2.76
+  },
+  {
+    "date": "2026-09-06 16:48",
+    "customer_id": "mahaok",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-09-06 11:47",
+    "customer_id": "Shrestha0099",
+    "pounds": 6.8,
+    "subtotal": 3.4,
+    "taxes": 0.2,
+    "total": 3.6
+  },
+  {
+    "date": "2026-09-06 17:48",
+    "customer_id": "kamsp",
+    "pounds": 7.2,
+    "subtotal": 3.6,
+    "taxes": 0.22,
+    "total": 3.82
+  },
+  {
+    "date": "2026-09-06 09:53",
+    "customer_id": "mahaok",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-09-06 13:11",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-09-06 16:08",
+    "customer_id": "maha",
+    "pounds": 4.7,
+    "subtotal": 2.35,
+    "taxes": 0.14,
+    "total": 2.49
+  },
+  {
+    "date": "2026-09-06 16:18",
+    "customer_id": "mahaok",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-09-07 09:55",
+    "customer_id": "kamsp",
+    "pounds": 2.1,
+    "subtotal": 1.05,
+    "taxes": 0.06,
+    "total": 1.11
+  },
+  {
+    "date": "2026-09-07 15:30",
+    "customer_id": "mahaok",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-09-07 08:16",
+    "customer_id": "abcdde",
+    "pounds": 11.4,
+    "subtotal": 5.7,
+    "taxes": 0.34,
+    "total": 6.04
+  },
+  {
+    "date": "2026-09-07 09:52",
+    "customer_id": "abcdde",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-09-07 09:36",
+    "customer_id": "maha",
+    "pounds": 8.3,
+    "subtotal": 4.15,
+    "taxes": 0.25,
+    "total": 4.4
+  },
+  {
+    "date": "2026-09-08 10:51",
+    "customer_id": "kamsp",
+    "pounds": 7.6,
+    "subtotal": 3.8,
+    "taxes": 0.23,
+    "total": 4.03
+  },
+  {
+    "date": "2026-09-08 09:15",
+    "customer_id": "abcdde",
+    "pounds": 3.2,
+    "subtotal": 1.6,
+    "taxes": 0.1,
+    "total": 1.7
+  },
+  {
+    "date": "2026-09-08 17:38",
+    "customer_id": "mahaok",
+    "pounds": 9.9,
+    "subtotal": 4.95,
+    "taxes": 0.3,
+    "total": 5.25
+  },
+  {
+    "date": "2026-09-09 14:28",
+    "customer_id": "kamsp",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-09-09 17:27",
+    "customer_id": "Bajra1234",
+    "pounds": 5.1,
+    "subtotal": 2.55,
+    "taxes": 0.15,
+    "total": 2.7
+  },
+  {
+    "date": "2026-09-09 08:39",
+    "customer_id": "maha",
+    "pounds": 11.6,
+    "subtotal": 5.8,
+    "taxes": 0.35,
+    "total": 6.15
+  },
+  {
+    "date": "2026-09-09 20:13",
+    "customer_id": "kamsp",
+    "pounds": 8.3,
+    "subtotal": 4.15,
+    "taxes": 0.25,
+    "total": 4.4
+  },
+  {
+    "date": "2026-09-09 18:05",
+    "customer_id": "mahaok",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-09-09 16:04",
+    "customer_id": "abcdde",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-09-10 19:38",
+    "customer_id": "maha",
+    "pounds": 6.7,
+    "subtotal": 3.35,
+    "taxes": 0.2,
+    "total": 3.55
+  },
+  {
+    "date": "2026-09-10 11:18",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.1,
+    "subtotal": 4.55,
+    "taxes": 0.27,
+    "total": 4.82
+  },
+  {
+    "date": "2026-09-10 15:04",
+    "customer_id": "kamsp",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-09-10 20:50",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.3,
+    "subtotal": 4.15,
+    "taxes": 0.25,
+    "total": 4.4
+  },
+  {
+    "date": "2026-09-10 20:59",
+    "customer_id": "maha",
+    "pounds": 4.0,
+    "subtotal": 2.0,
+    "taxes": 0.12,
+    "total": 2.12
+  },
+  {
+    "date": "2026-09-11 11:41",
+    "customer_id": "kamsp",
+    "pounds": 3.5,
+    "subtotal": 1.75,
+    "taxes": 0.1,
+    "total": 1.85
+  },
+  {
+    "date": "2026-09-11 10:04",
+    "customer_id": "kamsp",
+    "pounds": 2.6,
+    "subtotal": 1.3,
+    "taxes": 0.08,
+    "total": 1.38
+  },
+  {
+    "date": "2026-09-11 17:47",
+    "customer_id": "kamsp",
+    "pounds": 10.2,
+    "subtotal": 5.1,
+    "taxes": 0.31,
+    "total": 5.41
+  },
+  {
+    "date": "2026-09-11 15:07",
+    "customer_id": "kamsp",
+    "pounds": 6.7,
+    "subtotal": 3.35,
+    "taxes": 0.2,
+    "total": 3.55
+  },
+  {
+    "date": "2026-09-11 19:25",
+    "customer_id": "Bajra1234",
+    "pounds": 11.4,
+    "subtotal": 5.7,
+    "taxes": 0.34,
+    "total": 6.04
+  },
+  {
+    "date": "2026-09-11 16:31",
+    "customer_id": "Bajra1234",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-09-12 14:47",
+    "customer_id": "kamsp",
+    "pounds": 5.2,
+    "subtotal": 2.6,
+    "taxes": 0.16,
+    "total": 2.76
+  },
+  {
+    "date": "2026-09-12 08:05",
+    "customer_id": "Shrestha0099",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-09-12 17:37",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-09-12 12:36",
+    "customer_id": "mahaok",
+    "pounds": 2.4,
+    "subtotal": 1.2,
+    "taxes": 0.07,
+    "total": 1.27
+  },
+  {
+    "date": "2026-09-12 15:33",
+    "customer_id": "kamsp",
+    "pounds": 8.5,
+    "subtotal": 4.25,
+    "taxes": 0.26,
+    "total": 4.5
+  },
+  {
+    "date": "2026-09-12 10:37",
+    "customer_id": "abcdde",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-09-12 09:30",
+    "customer_id": "kamsp",
+    "pounds": 5.5,
+    "subtotal": 2.75,
+    "taxes": 0.16,
+    "total": 2.92
+  },
+  {
+    "date": "2026-09-12 13:42",
+    "customer_id": "mahaok",
+    "pounds": 3.0,
+    "subtotal": 1.5,
+    "taxes": 0.09,
+    "total": 1.59
+  },
+  {
+    "date": "2026-09-13 14:44",
+    "customer_id": "Shrestha0099",
+    "pounds": 7.0,
+    "subtotal": 3.5,
+    "taxes": 0.21,
+    "total": 3.71
+  },
+  {
+    "date": "2026-09-13 14:52",
+    "customer_id": "maha",
+    "pounds": 9.6,
+    "subtotal": 4.8,
+    "taxes": 0.29,
+    "total": 5.09
+  },
+  {
+    "date": "2026-09-13 15:05",
+    "customer_id": "kamsp",
+    "pounds": 5.1,
+    "subtotal": 2.55,
+    "taxes": 0.15,
+    "total": 2.7
+  },
+  {
+    "date": "2026-09-13 09:49",
+    "customer_id": "Bajra1234",
+    "pounds": 6.0,
+    "subtotal": 3.0,
+    "taxes": 0.18,
+    "total": 3.18
+  },
+  {
+    "date": "2026-09-13 08:42",
+    "customer_id": "abcdde",
+    "pounds": 10.7,
+    "subtotal": 5.35,
+    "taxes": 0.32,
+    "total": 5.67
+  },
+  {
+    "date": "2026-09-13 14:03",
+    "customer_id": "kamsp",
+    "pounds": 3.9,
+    "subtotal": 1.95,
+    "taxes": 0.12,
+    "total": 2.07
+  },
+  {
+    "date": "2026-09-13 17:48",
+    "customer_id": "abcdde",
+    "pounds": 7.0,
+    "subtotal": 3.5,
+    "taxes": 0.21,
+    "total": 3.71
+  },
+  {
+    "date": "2026-09-13 20:03",
+    "customer_id": "Bajra1234",
+    "pounds": 4.0,
+    "subtotal": 2.0,
+    "taxes": 0.12,
+    "total": 2.12
+  },
+  {
+    "date": "2026-09-13 10:59",
+    "customer_id": "Shrestha0099",
+    "pounds": 4.9,
+    "subtotal": 2.45,
+    "taxes": 0.15,
+    "total": 2.6
+  },
+  {
+    "date": "2026-09-13 15:07",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-09-14 20:15",
+    "customer_id": "kamsp",
+    "pounds": 9.1,
+    "subtotal": 4.55,
+    "taxes": 0.27,
+    "total": 4.82
+  },
+  {
+    "date": "2026-09-14 16:00",
+    "customer_id": "maha",
+    "pounds": 7.5,
+    "subtotal": 3.75,
+    "taxes": 0.22,
+    "total": 3.98
+  },
+  {
+    "date": "2026-09-14 11:53",
+    "customer_id": "abcdde",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-09-14 09:41",
+    "customer_id": "abcdde",
+    "pounds": 10.3,
+    "subtotal": 5.15,
+    "taxes": 0.31,
+    "total": 5.46
+  },
+  {
+    "date": "2026-09-14 19:18",
+    "customer_id": "kamsp",
+    "pounds": 7.1,
+    "subtotal": 3.55,
+    "taxes": 0.21,
+    "total": 3.76
+  },
+  {
+    "date": "2026-09-14 14:53",
+    "customer_id": "abcdde",
+    "pounds": 6.8,
+    "subtotal": 3.4,
+    "taxes": 0.2,
+    "total": 3.6
+  },
+  {
+    "date": "2026-09-15 15:35",
+    "customer_id": "mahaok",
+    "pounds": 3.4,
+    "subtotal": 1.7,
+    "taxes": 0.1,
+    "total": 1.8
+  },
+  {
+    "date": "2026-09-15 17:32",
+    "customer_id": "mahaok",
+    "pounds": 9.5,
+    "subtotal": 4.75,
+    "taxes": 0.28,
+    "total": 5.04
+  },
+  {
+    "date": "2026-09-15 09:17",
+    "customer_id": "abcdde",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-09-16 20:32",
+    "customer_id": "maha",
+    "pounds": 4.7,
+    "subtotal": 2.35,
+    "taxes": 0.14,
+    "total": 2.49
+  },
+  {
+    "date": "2026-09-16 12:46",
+    "customer_id": "Bajra1234",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-09-16 17:42",
+    "customer_id": "mahaok",
+    "pounds": 6.9,
+    "subtotal": 3.45,
+    "taxes": 0.21,
+    "total": 3.66
+  },
+  {
+    "date": "2026-09-16 15:34",
+    "customer_id": "kamsp",
+    "pounds": 6.8,
+    "subtotal": 3.4,
+    "taxes": 0.2,
+    "total": 3.6
+  },
+  {
+    "date": "2026-09-17 20:34",
+    "customer_id": "kamsp",
+    "pounds": 5.8,
+    "subtotal": 2.9,
+    "taxes": 0.17,
+    "total": 3.07
+  },
+  {
+    "date": "2026-09-17 11:44",
+    "customer_id": "abcdde",
+    "pounds": 4.4,
+    "subtotal": 2.2,
+    "taxes": 0.13,
+    "total": 2.33
+  },
+  {
+    "date": "2026-09-17 11:54",
+    "customer_id": "maha",
+    "pounds": 9.8,
+    "subtotal": 4.9,
+    "taxes": 0.29,
+    "total": 5.19
+  },
+  {
+    "date": "2026-09-17 13:47",
+    "customer_id": "abcdde",
+    "pounds": 6.7,
+    "subtotal": 3.35,
+    "taxes": 0.2,
+    "total": 3.55
+  },
+  {
+    "date": "2026-09-17 14:42",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.9,
+    "subtotal": 4.95,
+    "taxes": 0.3,
+    "total": 5.25
+  },
+  {
+    "date": "2026-09-17 10:31",
+    "customer_id": "mahaok",
+    "pounds": 11.6,
+    "subtotal": 5.8,
+    "taxes": 0.35,
+    "total": 6.15
+  },
+  {
+    "date": "2026-09-18 17:21",
+    "customer_id": "abcdde",
+    "pounds": 10.7,
+    "subtotal": 5.35,
+    "taxes": 0.32,
+    "total": 5.67
+  },
+  {
+    "date": "2026-09-18 09:33",
+    "customer_id": "maha",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-09-18 19:09",
+    "customer_id": "Shrestha0099",
+    "pounds": 6.1,
+    "subtotal": 3.05,
+    "taxes": 0.18,
+    "total": 3.23
+  },
+  {
+    "date": "2026-09-18 10:04",
+    "customer_id": "kamsp",
+    "pounds": 6.7,
+    "subtotal": 3.35,
+    "taxes": 0.2,
+    "total": 3.55
+  },
+  {
+    "date": "2026-09-18 13:39",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-09-18 09:54",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.3,
+    "subtotal": 2.65,
+    "taxes": 0.16,
+    "total": 2.81
+  },
+  {
+    "date": "2026-09-19 16:24",
+    "customer_id": "Shrestha0099",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-09-19 19:56",
+    "customer_id": "Bajra1234",
+    "pounds": 9.6,
+    "subtotal": 4.8,
+    "taxes": 0.29,
+    "total": 5.09
+  },
+  {
+    "date": "2026-09-19 08:39",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.7,
+    "subtotal": 1.35,
+    "taxes": 0.08,
+    "total": 1.43
+  },
+  {
+    "date": "2026-09-19 18:58",
+    "customer_id": "mahaok",
+    "pounds": 4.9,
+    "subtotal": 2.45,
+    "taxes": 0.15,
+    "total": 2.6
+  },
+  {
+    "date": "2026-09-19 19:05",
+    "customer_id": "maha",
+    "pounds": 6.3,
+    "subtotal": 3.15,
+    "taxes": 0.19,
+    "total": 3.34
+  },
+  {
+    "date": "2026-09-19 20:40",
+    "customer_id": "maha",
+    "pounds": 9.0,
+    "subtotal": 4.5,
+    "taxes": 0.27,
+    "total": 4.77
+  },
+  {
+    "date": "2026-09-19 15:10",
+    "customer_id": "maha",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-09-19 08:20",
+    "customer_id": "kamsp",
+    "pounds": 10.0,
+    "subtotal": 5.0,
+    "taxes": 0.3,
+    "total": 5.3
+  },
+  {
+    "date": "2026-09-19 13:23",
+    "customer_id": "mahaok",
+    "pounds": 6.3,
+    "subtotal": 3.15,
+    "taxes": 0.19,
+    "total": 3.34
+  },
+  {
+    "date": "2026-09-19 16:26",
+    "customer_id": "mahaok",
+    "pounds": 7.7,
+    "subtotal": 3.85,
+    "taxes": 0.23,
+    "total": 4.08
+  },
+  {
+    "date": "2026-09-19 10:11",
+    "customer_id": "abcdde",
+    "pounds": 2.8,
+    "subtotal": 1.4,
+    "taxes": 0.08,
+    "total": 1.48
+  },
+  {
+    "date": "2026-09-19 17:43",
+    "customer_id": "Bajra1234",
+    "pounds": 4.4,
+    "subtotal": 2.2,
+    "taxes": 0.13,
+    "total": 2.33
+  },
+  {
+    "date": "2026-09-19 10:14",
+    "customer_id": "kamsp",
+    "pounds": 6.6,
+    "subtotal": 3.3,
+    "taxes": 0.2,
+    "total": 3.5
+  },
+  {
+    "date": "2026-09-19 15:16",
+    "customer_id": "abcdde",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-09-20 18:34",
+    "customer_id": "abcdde",
+    "pounds": 3.6,
+    "subtotal": 1.8,
+    "taxes": 0.11,
+    "total": 1.91
+  },
+  {
+    "date": "2026-09-20 13:37",
+    "customer_id": "abcdde",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-09-20 19:16",
+    "customer_id": "kamsp",
+    "pounds": 6.6,
+    "subtotal": 3.3,
+    "taxes": 0.2,
+    "total": 3.5
+  },
+  {
+    "date": "2026-09-20 11:24",
+    "customer_id": "maha",
+    "pounds": 10.5,
+    "subtotal": 5.25,
+    "taxes": 0.32,
+    "total": 5.57
+  },
+  {
+    "date": "2026-09-20 11:24",
+    "customer_id": "Bajra1234",
+    "pounds": 7.7,
+    "subtotal": 3.85,
+    "taxes": 0.23,
+    "total": 4.08
+  },
+  {
+    "date": "2026-09-20 12:44",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-09-20 14:17",
+    "customer_id": "Shrestha0099",
+    "pounds": 2.1,
+    "subtotal": 1.05,
+    "taxes": 0.06,
+    "total": 1.11
+  },
+  {
+    "date": "2026-09-20 20:47",
+    "customer_id": "Bajra1234",
+    "pounds": 11.7,
+    "subtotal": 5.85,
+    "taxes": 0.35,
+    "total": 6.2
+  },
+  {
+    "date": "2026-09-20 19:31",
+    "customer_id": "kamsp",
+    "pounds": 10.3,
+    "subtotal": 5.15,
+    "taxes": 0.31,
+    "total": 5.46
+  },
+  {
+    "date": "2026-09-20 20:51",
+    "customer_id": "kamsp",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-09-21 18:12",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.2,
+    "subtotal": 4.1,
+    "taxes": 0.25,
+    "total": 4.35
+  },
+  {
+    "date": "2026-09-21 20:46",
+    "customer_id": "Shrestha0099",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-09-21 10:40",
+    "customer_id": "Shrestha0099",
+    "pounds": 3.0,
+    "subtotal": 1.5,
+    "taxes": 0.09,
+    "total": 1.59
+  },
+  {
+    "date": "2026-09-22 12:50",
+    "customer_id": "Bajra1234",
+    "pounds": 6.4,
+    "subtotal": 3.2,
+    "taxes": 0.19,
+    "total": 3.39
+  },
+  {
+    "date": "2026-09-22 13:46",
+    "customer_id": "kamsp",
+    "pounds": 3.3,
+    "subtotal": 1.65,
+    "taxes": 0.1,
+    "total": 1.75
+  },
+  {
+    "date": "2026-09-23 19:26",
+    "customer_id": "mahaok",
+    "pounds": 3.8,
+    "subtotal": 1.9,
+    "taxes": 0.11,
+    "total": 2.01
+  },
+  {
+    "date": "2026-09-23 20:34",
+    "customer_id": "kamsp",
+    "pounds": 10.8,
+    "subtotal": 5.4,
+    "taxes": 0.32,
+    "total": 5.72
+  },
+  {
+    "date": "2026-09-23 16:32",
+    "customer_id": "mahaok",
+    "pounds": 11.1,
+    "subtotal": 5.55,
+    "taxes": 0.33,
+    "total": 5.88
+  },
+  {
+    "date": "2026-09-23 12:58",
+    "customer_id": "abcdde",
+    "pounds": 10.2,
+    "subtotal": 5.1,
+    "taxes": 0.31,
+    "total": 5.41
+  },
+  {
+    "date": "2026-09-24 19:55",
+    "customer_id": "maha",
+    "pounds": 5.4,
+    "subtotal": 2.7,
+    "taxes": 0.16,
+    "total": 2.86
+  },
+  {
+    "date": "2026-09-24 15:04",
+    "customer_id": "mahaok",
+    "pounds": 3.4,
+    "subtotal": 1.7,
+    "taxes": 0.1,
+    "total": 1.8
+  },
+  {
+    "date": "2026-09-24 18:46",
+    "customer_id": "abcdde",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-09-24 20:35",
+    "customer_id": "abcdde",
+    "pounds": 5.7,
+    "subtotal": 2.85,
+    "taxes": 0.17,
+    "total": 3.02
+  },
+  {
+    "date": "2026-09-25 12:34",
+    "customer_id": "kamsp",
+    "pounds": 3.2,
+    "subtotal": 1.6,
+    "taxes": 0.1,
+    "total": 1.7
+  },
+  {
+    "date": "2026-09-25 18:47",
+    "customer_id": "Bajra1234",
+    "pounds": 8.7,
+    "subtotal": 4.35,
+    "taxes": 0.26,
+    "total": 4.61
+  },
+  {
+    "date": "2026-09-26 18:23",
+    "customer_id": "mahaok",
+    "pounds": 3.1,
+    "subtotal": 1.55,
+    "taxes": 0.09,
+    "total": 1.64
+  },
+  {
+    "date": "2026-09-26 15:01",
+    "customer_id": "Bajra1234",
+    "pounds": 8.2,
+    "subtotal": 4.1,
+    "taxes": 0.25,
+    "total": 4.35
+  },
+  {
+    "date": "2026-09-26 13:58",
+    "customer_id": "Shrestha0099",
+    "pounds": 8.1,
+    "subtotal": 4.05,
+    "taxes": 0.24,
+    "total": 4.29
+  },
+  {
+    "date": "2026-09-26 09:40",
+    "customer_id": "Shrestha0099",
+    "pounds": 10.2,
+    "subtotal": 5.1,
+    "taxes": 0.31,
+    "total": 5.41
+  },
+  {
+    "date": "2026-09-26 12:41",
+    "customer_id": "mahaok",
+    "pounds": 6.1,
+    "subtotal": 3.05,
+    "taxes": 0.18,
+    "total": 3.23
+  },
+  {
+    "date": "2026-09-26 08:02",
+    "customer_id": "abcdde",
+    "pounds": 5.0,
+    "subtotal": 2.5,
+    "taxes": 0.15,
+    "total": 2.65
+  },
+  {
+    "date": "2026-09-26 09:06",
+    "customer_id": "Bajra1234",
+    "pounds": 4.3,
+    "subtotal": 2.15,
+    "taxes": 0.13,
+    "total": 2.28
+  },
+  {
+    "date": "2026-09-26 10:24",
+    "customer_id": "Shrestha0099",
+    "pounds": 6.5,
+    "subtotal": 3.25,
+    "taxes": 0.2,
+    "total": 3.44
+  },
+  {
+    "date": "2026-09-26 19:44",
+    "customer_id": "abcdde",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-09-26 17:47",
+    "customer_id": "abcdde",
+    "pounds": 9.3,
+    "subtotal": 4.65,
+    "taxes": 0.28,
+    "total": 4.93
+  },
+  {
+    "date": "2026-09-26 18:06",
+    "customer_id": "Bajra1234",
+    "pounds": 10.3,
+    "subtotal": 5.15,
+    "taxes": 0.31,
+    "total": 5.46
+  },
+  {
+    "date": "2026-09-27 12:02",
+    "customer_id": "mahaok",
+    "pounds": 8.9,
+    "subtotal": 4.45,
+    "taxes": 0.27,
+    "total": 4.72
+  },
+  {
+    "date": "2026-09-27 15:28",
+    "customer_id": "kamsp",
+    "pounds": 11.5,
+    "subtotal": 5.75,
+    "taxes": 0.34,
+    "total": 6.09
+  },
+  {
+    "date": "2026-09-27 09:43",
+    "customer_id": "Shrestha0099",
+    "pounds": 5.7,
+    "subtotal": 2.85,
+    "taxes": 0.17,
+    "total": 3.02
+  },
+  {
+    "date": "2026-09-27 13:03",
+    "customer_id": "mahaok",
+    "pounds": 6.0,
+    "subtotal": 3.0,
+    "taxes": 0.18,
+    "total": 3.18
+  },
+  {
+    "date": "2026-09-27 09:54",
+    "customer_id": "maha",
+    "pounds": 10.2,
+    "subtotal": 5.1,
+    "taxes": 0.31,
+    "total": 5.41
+  },
+  {
+    "date": "2026-09-27 18:13",
+    "customer_id": "Bajra1234",
+    "pounds": 8.4,
+    "subtotal": 4.2,
+    "taxes": 0.25,
+    "total": 4.45
+  },
+  {
+    "date": "2026-09-27 08:03",
+    "customer_id": "mahaok",
+    "pounds": 9.9,
+    "subtotal": 4.95,
+    "taxes": 0.3,
+    "total": 5.25
+  },
+  {
+    "date": "2026-09-27 10:50",
+    "customer_id": "maha",
+    "pounds": 7.6,
+    "subtotal": 3.8,
+    "taxes": 0.23,
+    "total": 4.03
+  },
+  {
+    "date": "2026-09-27 20:35",
+    "customer_id": "mahaok",
+    "pounds": 4.1,
+    "subtotal": 2.05,
+    "taxes": 0.12,
+    "total": 2.17
+  },
+  {
+    "date": "2026-09-27 11:21",
+    "customer_id": "Bajra1234",
+    "pounds": 9.7,
+    "subtotal": 4.85,
+    "taxes": 0.29,
+    "total": 5.14
+  },
+  {
+    "date": "2026-09-27 08:17",
+    "customer_id": "mahaok",
+    "pounds": 10.6,
+    "subtotal": 5.3,
+    "taxes": 0.32,
+    "total": 5.62
+  },
+  {
+    "date": "2026-09-28 16:16",
+    "customer_id": "maha",
+    "pounds": 10.0,
+    "subtotal": 5.0,
+    "taxes": 0.3,
+    "total": 5.3
+  },
+  {
+    "date": "2026-09-28 18:55",
+    "customer_id": "maha",
+    "pounds": 2.3,
+    "subtotal": 1.15,
+    "taxes": 0.07,
+    "total": 1.22
+  },
+  {
+    "date": "2026-09-28 13:50",
+    "customer_id": "Bajra1234",
+    "pounds": 9.9,
+    "subtotal": 4.95,
+    "taxes": 0.3,
+    "total": 5.25
+  },
+  {
+    "date": "2026-09-29 08:11",
+    "customer_id": "mahaok",
+    "pounds": 4.7,
+    "subtotal": 2.35,
+    "taxes": 0.14,
+    "total": 2.49
+  },
+  {
+    "date": "2026-09-29 19:26",
+    "customer_id": "Shrestha0099",
+    "pounds": 7.3,
+    "subtotal": 3.65,
+    "taxes": 0.22,
+    "total": 3.87
+  },
+  {
+    "date": "2026-09-29 09:30",
+    "customer_id": "kamsp",
+    "pounds": 6.5,
+    "subtotal": 3.25,
+    "taxes": 0.2,
+    "total": 3.44
+  },
+  {
+    "date": "2026-09-29 16:37",
+    "customer_id": "Bajra1234",
+    "pounds": 3.1,
+    "subtotal": 1.55,
+    "taxes": 0.09,
+    "total": 1.64
+  }
+]
